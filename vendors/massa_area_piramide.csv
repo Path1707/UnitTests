@@ -1,0 +1,4 @@
+id;base;altura;resultado_esperado;tipo_teste
+1;18;15;864;positivo
+2;12;0;Base ou altura invalidos;negativo
+3;-13;-5;Base ou altura invalidos;negativo
