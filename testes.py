@@ -40,7 +40,7 @@ def teste_area_de_um_paralelegrama(base, altura, resultado_esperado):
 
 # ----------------------------------------------------
 
-# ------------------- Passo 4 -------------------------
+# ------------------- Passo 4 -----------------------
 def ler_dados_csv():
     dados_csv = []
     caminho_do_arquivo = 'C:\\Users\\pathm\\PycharmProjects\\UnitTests\\vendors\\massa_area_piramide.csv'
